@@ -1,0 +1,85 @@
+
+
+
+body{
+  background-image: url("sfondo.jpg");
+  background-size: cover;
+  font-family: 'Ubuntu', sans-serif;
+  box-sizing: border-box;
+}
+
+#scritta-logo{
+  color: rgb(90,210, 40);
+  display: inline-block;
+  margin-left: 30%;
+}
+
+.contenitore{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 50px;
+}
+
+nav{
+  background-color: rgb(90,210, 40);
+}
+
+#prenotazione{
+  padding: 13px;
+  display: inline-block;
+  margin-left: 35%;
+}
+
+#logo{
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+main{
+  color: white;
+  padding-top: 18px;
+
+}
+
+.disponibili{
+  padding: 2%;
+}
+
+
+.veicolo{
+  font-size: 150%;
+  display: inline-block;
+}
+
+
+.stato-carica1{
+  background-color: orange;
+  height: 30px;
+  width: 50%;
+  border-radius: 20px;
+}
+
+.stato-carica2{
+  background-color: rgb(90,210, 40);
+  height: 30px;
+  width: 75%;
+  border-radius: 20px;
+}
+
+.stato-carica3{
+  background-color: rgb(250,70,70);
+  height: 30px;
+  width: 25%;
+  border-radius: 15px;
+}
+
+.condizioni{
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
